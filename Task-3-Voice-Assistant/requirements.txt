@@ -1,0 +1,6 @@
+# Required for optional spoken responses
+pyttsx3
+
+# Optional microphone speech recognition
+SpeechRecognition
+PyAudio
